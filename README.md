@@ -31,19 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika2396&show_icons=true&locale=en" alt="niharika2396" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika2396&" alt="niharika2396" /></p>
-
-what was your previous password
-
-i dont know, mohit negi knew that
-ok 
-can we reset with new one 
-yeah sure
-wait
-Kindly chek with April@2024
-wait you have mentioned on mail different mac code
-you need to reset mac009531 this one
-yes on this one not on that
-wait
-chek with April@2024
-Thanks
-welcome
