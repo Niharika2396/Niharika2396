@@ -1,3 +1,4 @@
+![logo](https://github.com/Niharika2396/Niharika2396/blob/main/Banner.PNG)
 <h1 align="center">Hi 👋, I'm Niharika Goel</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
